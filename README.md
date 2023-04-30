@@ -1,5 +1,5 @@
-# COMP202_Assignments
-Assignments 1 to 4 completed in Fall 2022.
+# ✨COMP202_Assignments🔥
+🍡 Assignments 1 to 4 completed in Fall 2022 🥝
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113480613/235353762-b937e99f-932f-4ac8-86d1-91b28965e05c.jpg">
