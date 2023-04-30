@@ -27,3 +27,18 @@ we will represent as a big string. Here is an example treasure map string:
 ## Assignment 3 (Nov9)
 Question 1: Fun with images. In this question we will work with greyscale images and perform simple operations on them: flipping,
 cropping, inverting, reading from disk, writing to disk, compressing and decompressing. A digital image can be thought of as a two-dimensional grid of pixels: little squares, each with their own colour, arranged in rows and columns. 
+![A3Q1](https://user-images.githubusercontent.com/113480613/235352977-2968c758-bd89-44f7-b828-9cdaa781f8f8.png)
+
+## Assignment 4 (Nov26)
+Question 1: Paying It Forward. An Application Programming Interface, or API for short, is a way for two or more computer
+programs to communicate with each other. An API is comprised of a formal specification, describing how the communication is done, and an implementation, which implements the communication process in code
+
+![A4Q1](https://user-images.githubusercontent.com/113480613/235353137-148d8691-185b-42d3-aad1-650353d35124.png)
+
+Question 2: Making Melodies. A music melody is made up of a series of notes. Each note has a pitch (a letter ranging from A to G)
+and a duration. Each note is also located in a particular octave from 1 to 7. Higher octaves correspond
+to a higher frequency. For example, C4 has a higher frequency than C3. Finally, notes may also have
+accidentals (sharps or flats) that make them sound different than regular notes. Music also has silences
+which are called rests
+
+![A4Q2](https://user-images.githubusercontent.com/113480613/235353204-5eed4766-1ec0-42b8-b7f2-90d5dfd61a5c.png)
