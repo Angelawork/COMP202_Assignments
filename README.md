@@ -16,6 +16,14 @@ Question 1: Dungeons! Remember how it was like living in the 80s? I don’t but 
 time when there was no internet as we know it and most computers could not even display graphics on
 screen. They could only display text.
 
+![A2Q1](https://user-images.githubusercontent.com/113480613/235352682-87fdeb91-646d-4936-ac95-0ca3c6744eab.png)
+
 Question 2: Treasure! In this question, we will go on a hunt for treasure!!! We will follow the trail in a treasure map, which
 we will represent as a big string. Here is an example treasure map string:
 '..vv.<>..'
+
+![A2Q2](https://user-images.githubusercontent.com/113480613/235352736-87e0a2e4-f838-49da-a133-633f362d5a36.png)
+
+## Assignment 3 (Nov9)
+Question 1: Fun with images. In this question we will work with greyscale images and perform simple operations on them: flipping,
+cropping, inverting, reading from disk, writing to disk, compressing and decompressing. A digital image can be thought of as a two-dimensional grid of pixels: little squares, each with their own colour, arranged in rows and columns. 
